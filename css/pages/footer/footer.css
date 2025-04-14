@@ -1,0 +1,40 @@
+.footer {
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-evenly;
+}
+
+.links {
+    display: flex;
+}
+
+.links div a{
+    font-size: 17px;
+    line-height: 27px;
+    color: white;
+}
+
+.links-left {
+    margin-right: 150px;
+}
+
+.links div {
+    margin-bottom: 15px;
+}
+
+.smallimg {
+    margin-top: 30px;
+}
+
+.apps a {
+    margin-right: 10px;
+}
+
+.castaway {
+    width: 447px;
+    margin-left: 80px;
+}
+
+.apps {
+    width: 447px;
+}
