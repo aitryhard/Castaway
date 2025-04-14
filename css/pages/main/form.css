@@ -57,16 +57,14 @@
     padding: 26px 438px 27px 19px;
 }
 
-.form-button input {
+.form-button {
     width: 87px;
     height: 48px;
     border-radius: 6px;
     background-color: #118DA8;
+    margin-top: 25px;
     color: white;
-    font-weight: 400;
     font-size: 15px;
-    line-height: 28.8px;
-    margin-top: 20px;
 }
 
 .form-left {
