@@ -1,0 +1,38 @@
+.commentary {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.commentary-grid {
+    width: 423px;
+    height: 321px;
+    border-radius: 32px;
+    background-color: black;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.grid-text {
+    color: white;
+    font-size: 33px;
+    line-height: 43.2px;
+    margin-top: 10px;
+    width: 317px;
+}
+
+.grid-name {
+    font-size: 23px;
+    color: rgb(164, 164, 164);
+    line-height: 28.8px;
+    margin-top: 10px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
